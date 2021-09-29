@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Exploring react tailwind
+Install tailwind and changes the theme color
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
